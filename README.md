@@ -1,6 +1,6 @@
 # GitHub-Markdown-Notes
 
-[See my profile page](docs/profile.md)
+[See my profile page](docs/Profile.md)
 
 ## Headings
 To create a heading
