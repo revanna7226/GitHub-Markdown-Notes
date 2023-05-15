@@ -1,5 +1,7 @@
 # GitHub-Markdown-Notes
 
+[See my profile page](docs/profile.md)
+
 ## Headings
 To create a heading
 # A first-level heading
